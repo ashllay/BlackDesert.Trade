@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XmlMarketVariedPriceInfoList>
+  <XmlMarketVariedPriceInfo StartRangePrice="0" EndRangePrice="499" UnitPrice="1" PassBiddingCount="100" PricePoint="1200"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="500" EndRangePrice="999" UnitPrice="5" PassBiddingCount="100" PricePoint="1200"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="1000" EndRangePrice="4999" UnitPrice="10" PassBiddingCount="100" PricePoint="1200"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="5000" EndRangePrice="9999" UnitPrice="50" PassBiddingCount="100" PricePoint="1200"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="10000" EndRangePrice="49999" UnitPrice="100" PassBiddingCount="100" PricePoint="1200"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="50000" EndRangePrice="99999" UnitPrice="500" PassBiddingCount="100" PricePoint="1200"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="100000" EndRangePrice="499999" UnitPrice="1000" PassBiddingCount="100" PricePoint="1200"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="500000" EndRangePrice="999999" UnitPrice="5000" PassBiddingCount="100" PricePoint="1200"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="1000000" EndRangePrice="4999999" UnitPrice="10000" PassBiddingCount="50" PricePoint="600"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="5000000" EndRangePrice="9999999" UnitPrice="50000" PassBiddingCount="45" PricePoint="540"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="10000000" EndRangePrice="49999999" UnitPrice="100000" PassBiddingCount="40" PricePoint="480"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="50000000" EndRangePrice="99999999" UnitPrice="500000" PassBiddingCount="30" PricePoint="360"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="100000000" EndRangePrice="499999999" UnitPrice="1000000" PassBiddingCount="25" PricePoint="300"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="500000000" EndRangePrice="999999999" UnitPrice="5000000" PassBiddingCount="20" PricePoint="240"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="1000000000" EndRangePrice="4999999999" UnitPrice="10000000" PassBiddingCount="15" PricePoint="180"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="5000000000" EndRangePrice="9999999999" UnitPrice="50000000" PassBiddingCount="10" PricePoint="120"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="10000000000" EndRangePrice="49999999999" UnitPrice="100000000" PassBiddingCount="5" PricePoint="60"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="50000000000" EndRangePrice="99999999999" UnitPrice="500000000" PassBiddingCount="3" PricePoint="36"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="100000000000" EndRangePrice="499999999999" UnitPrice="1000000000" PassBiddingCount="3" PricePoint="36"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="500000000000" EndRangePrice="999999999999" UnitPrice="5000000000" PassBiddingCount="3" PricePoint="36"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="1000000000000" EndRangePrice="4999999999999" UnitPrice="10000000000" PassBiddingCount="3" PricePoint="36"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="5000000000000" EndRangePrice="9999999999999" UnitPrice="50000000000" PassBiddingCount="3" PricePoint="36"/>
+  <XmlMarketVariedPriceInfo StartRangePrice="10000000000000" EndRangePrice="9223372036854775807" UnitPrice="100000000000" PassBiddingCount="3" PricePoint="36"/>
+</XmlMarketVariedPriceInfoList>

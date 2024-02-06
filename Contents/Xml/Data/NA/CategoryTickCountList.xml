@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmlMarketCategoryTickCountList>
+  <XmlMarketCategoryTickCount MainGroupNo="25" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="65" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="1" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="5" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="10" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="15" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="20" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="30" NeedTickForUpdate="3"/>
+  <XmlMarketCategoryTickCount MainGroupNo="35" NeedTickForUpdate="12"/>
+  <XmlMarketCategoryTickCount MainGroupNo="40" NeedTickForUpdate="12"/>
+  <XmlMarketCategoryTickCount MainGroupNo="45" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="50" NeedTickForUpdate="12"/>
+  <XmlMarketCategoryTickCount MainGroupNo="55" NeedTickForUpdate="3"/>
+  <XmlMarketCategoryTickCount MainGroupNo="60" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="70" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="75" NeedTickForUpdate="6"/>
+  <XmlMarketCategoryTickCount MainGroupNo="80" NeedTickForUpdate="6"/>
+</XmlMarketCategoryTickCountList>

@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Update="db-connection.json">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="db-connection.dev.json">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.14"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="7.0.14"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.14"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.14"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.14"/>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlackDesert.Trade.Domain\BlackDesert.Trade.Domain.csproj"/>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Config\db-connection.dev.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Config\db-connection.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

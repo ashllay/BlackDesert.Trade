@@ -1,0 +1,6 @@
+{
+  "World": "Data Source=127.0.0.1;Initial Catalog=SA_BETA_WORLDDB_0002;Integrated Security=False;User id=CrimsonDesert;Password=BlackNo.1Game#^%;TrustServerCertificate=True;",
+  "Game": "Data Source=127.0.0.1;Initial Catalog=SA_BETA_GAMEDB_0002;Integrated Security=False;User id=CrimsonDesert;Password=BlackNo.1Game#^%;TrustServerCertificate=True;",
+  "Log": "Data Source=127.0.0.1;Initial Catalog=PF_BETA_LOGDB_0001;Integrated Security=False;User id=CrimsonDesert;Password=BlackNo.1Game#^%;TrustServerCertificate=True;",
+  "Trade": "Data Source=localhost;Initial Catalog=SA_BETA_TRADEDB_0002;Integrated Security=True;TrustServerCertificate=True;"
+}

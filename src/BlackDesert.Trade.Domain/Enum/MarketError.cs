@@ -1,0 +1,34 @@
+﻿namespace BlackDesert.Trade.Domain.Enum;
+
+public enum MarketError
+{
+  TRADE_MARKET_ERROR_MSG_UNAUTHORIZED,
+  TRADE_MARKET_ERROR_MSG_EXCEPTION,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_HttpException,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_InvalidCount,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_JSONIsNull,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_PayloadIsZero,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_DBException,
+  TRADE_MARKET_ERROR_MSG_INVALID_ITEM,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_InvalidItem,
+  TRADE_MARKET_ERROR_MSG_PRICE_WORNG,
+  TRADE_MARKET_ERROR_MSG_BACKUPCODE_ALREADY_USE,
+  TRADE_MARKET_ERROR_MSG_MAXFAIL_OTP,
+  TRADE_MARKET_ERROR_MSG_UNUSE_OTP,
+  TRADE_MARKET_ERROR_MSG_NOTMATCH_OTP,
+  TRADE_MARKET_MAINTENANCE_TITLE,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_ItemCountOver,
+  TRADE_MARKET_ITEM_DEAD_ONE,
+  TRADE_MARKET_ITEM_DEAD_FIVE,
+  TRADE_MARKET_ITEM_DEAD_THREE,
+  TRADE_MARKET_ITEM_DEAD_TWO,
+  TRADE_MARKET_ITEM_DEAD_FOUR,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_InvalidItemGroup,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_ReserveBuyBiddingFail,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_BuyBiddingRepeatOverFail,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_SellBiddingRepeatOverFail,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_ReserveSellBiddingFail,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_InvalidItemStack,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_StringOver,
+  TRADE_MARKET_WEB_ERROR_eWorldTradeMarketErrorNo_ItemNotExist
+}

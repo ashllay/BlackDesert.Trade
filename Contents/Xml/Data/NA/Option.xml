@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XmlMarketOption>
+   <Weight>214748</Weight>
+   <WeightRate>2</WeightRate>
+   <BiddingPercent>75000</BiddingPercent>
+   <CashGroupNo>55</CashGroupNo>
+   <BuyPercent>100000</BuyPercent>
+   <!-- <StockPercent>500000</StockPercent> -->
+   <PearlItemLimitedMaxCount>50</PearlItemLimitedMaxCount>
+   <StartSleepHour>2</StartSleepHour>
+   <EndSleepHour>10</EndSleepHour>
+   <IncreaseFamilyPointWeightRate>10</IncreaseFamilyPointWeightRate>
+   <IncreaseMaxWeight>20000</IncreaseMaxWeight>
+   <IncreaseWeightByBuff>20000</IncreaseWeightByBuff>
+   <RingBuffRate>100000</RingBuffRate>
+</XmlMarketOption>

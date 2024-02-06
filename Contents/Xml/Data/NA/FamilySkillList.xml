@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<XmlMarketFamilySkillList>
+  <XmlMarketFamilySkill FamilySkillKey="4" TaxDiscountRate="5000"/>
+  <XmlMarketFamilySkill FamilySkillKey="8" TaxDiscountRate="5000"/>
+  <XmlMarketFamilySkill FamilySkillKey="12" TaxDiscountRate="5000"/>
+  <XmlMarketFamilySkill FamilySkillKey="16" TaxDiscountRate="5000"/>
+  <XmlMarketFamilySkill FamilySkillKey="20" TaxDiscountRate="5000"/>
+</XmlMarketFamilySkillList>

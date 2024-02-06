@@ -1,0 +1,8 @@
+<XmlMarketVariedTradeCountList>
+  <XmlMarketVariedTradeCount MinFamilyPoint="0" MaxFamilyPoint="500" AddTradeCount="0"/>
+  <XmlMarketVariedTradeCount MinFamilyPoint="501" MaxFamilyPoint="1000" AddTradeCount="5"/>
+  <XmlMarketVariedTradeCount MinFamilyPoint="1001" MaxFamilyPoint="1500" AddTradeCount="10"/>
+  <XmlMarketVariedTradeCount MinFamilyPoint="1501" MaxFamilyPoint="2000" AddTradeCount="15"/>
+  <XmlMarketVariedTradeCount MinFamilyPoint="2001" MaxFamilyPoint="2500" AddTradeCount="20"/>
+  <XmlMarketVariedTradeCount MinFamilyPoint="2501" MaxFamilyPoint="9999999" AddTradeCount="30"/>
+</XmlMarketVariedTradeCountList>
